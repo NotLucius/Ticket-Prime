@@ -1,0 +1,42 @@
+{
+  "env": {
+    "token": "",
+    "prefix": "//",
+    "status": "online"
+  },
+
+  "mongoDB": {
+    "mongoURL": ""
+  },
+
+  "client_owners": [""],
+
+  "emoji": {
+    "wrong": "",
+    "right": "",
+    "loading": "",
+    "connected": "",
+    "openedicon": "",
+    "openedby": "",
+    "closedby": "",
+    "tickettype": "",
+    "claimicon": "",
+    "channelicon": "",
+    "systemicon": ""
+  },
+
+  "color": {
+    "main": "WHITE",
+    "error": "RED",
+    "success": "GREEN",
+
+    "red": "#ff5a48",
+    "orange": "#ffca4d",
+    "yellow": "#ffcc5c",
+    "green": "#74ff89",
+    "purple": "#7d5eff",
+    "pink": "#ff88d2",
+    "grey": "#4b4b4b",
+    "white": "#ffffff"
+  }
+}
