@@ -49,8 +49,8 @@ If you don't understand something and/or want to ask something about the bot, yo
 Give a ⭐️ if this project helped you!
 
 ## License  📄
-**Ticket Bot** is licensed under the [MIT License](https://github.com/NotLucius/Ticket-Prime/blob/master/LICENSE)
+**Ticket Prime** is licensed under the [MIT License](https://github.com/NotLucius/Ticket-Prime/blob/master/LICENSE)
 
 This is not an official Discord product. It is not affiliated with nor endorsed by Discord Inc.
 
-© 2022 - Lucius#2366.
+© 2023 - Lucius#2366.
