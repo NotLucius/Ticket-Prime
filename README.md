@@ -25,7 +25,7 @@ When you close a ticket it will send you a DM or send a transcript on a channel 
 - Discord Bot Token 🤖
 - MongoDB 🥭
 
-### Alternative Hosting
+### Alternative Hosting 🔗
 - Replit.com
 
 ### Installation 📦
@@ -37,9 +37,8 @@ Remember to rename the file `config.example.json` to `config.json`
 
 ```sh
 git clone https://github.com/NotLucius/Ticket-Prime.git
-cd ticket-bot
 npm install
-npm start
+node .
 ```
 
 ### Support? 💁🏻
