@@ -36,7 +36,7 @@ Make sure you have **NodeJS v16+** installed.
 Remember to rename the file `config.example.json` to `config.json`
 
 ```sh
-git clone https://github.com/DevJhoan/ticket-bot.git
+git clone https://github.com/NotLucius/Ticket-Prime.git
 cd ticket-bot
 npm install
 npm start
